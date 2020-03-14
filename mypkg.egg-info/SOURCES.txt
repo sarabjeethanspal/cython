@@ -1,0 +1,7 @@
+setup.py
+mypkg/__init__.py
+mypkg/foo.py
+mypkg.egg-info/PKG-INFO
+mypkg.egg-info/SOURCES.txt
+mypkg.egg-info/dependency_links.txt
+mypkg.egg-info/top_level.txt
